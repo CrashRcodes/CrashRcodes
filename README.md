@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CrashRcodes
+- 👋 Hi, I’m @CrashRcodez
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html css js 
 - 📫 How to reach me crashercrashercrasher@outlook.com
